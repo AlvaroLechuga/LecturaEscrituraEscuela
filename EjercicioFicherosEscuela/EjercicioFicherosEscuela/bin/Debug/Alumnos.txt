@@ -1,0 +1,7 @@
+1|1|1|1|1
+
+2|2|2|2|2
+
+23423|alvaro|1998|las palmas|555555
+23423|aloberto|1998|las palmas|555555
+Prueba|prueba|prueba|pureba|1

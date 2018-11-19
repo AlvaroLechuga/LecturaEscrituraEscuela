@@ -1,0 +1,45 @@
+C:\Users\usuario\source\repos\EjercicioFicherosEscuela\EjercicioFicherosEscuela\bin\Debug\EjercicioFicherosEscuela.exe.config
+C:\Users\usuario\source\repos\EjercicioFicherosEscuela\EjercicioFicherosEscuela\bin\Debug\EjercicioFicherosEscuela.exe
+C:\Users\usuario\source\repos\EjercicioFicherosEscuela\EjercicioFicherosEscuela\bin\Debug\EjercicioFicherosEscuela.pdb
+C:\Users\usuario\source\repos\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Escuela.resources
+C:\Users\usuario\source\repos\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Properties.Resources.resources
+C:\Users\usuario\source\repos\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.exe
+C:\Users\usuario\source\repos\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.pdb
+C:\Users\usuario\source\repos\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form2.resources
+C:\Users\usuario\source\repos\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form3.resources
+C:\Users\usuario\source\repos\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form4.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\bin\Debug\EjercicioFicherosEscuela.exe.config
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\bin\Debug\EjercicioFicherosEscuela.exe
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\bin\Debug\EjercicioFicherosEscuela.pdb
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.csprojAssemblyReference.cache
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Escuela.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form2.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form3.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form4.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Properties.Resources.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.csproj.GenerateResource.cache
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.csproj.CoreCompileInputs.cache
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.exe
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.pdb
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\bin\Debug\EjercicioFicherosEscuela.exe.config
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\bin\Debug\EjercicioFicherosEscuela.exe
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\bin\Debug\EjercicioFicherosEscuela.pdb
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.csprojAssemblyReference.cache
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Escuela.resources
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form2.resources
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form3.resources
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form4.resources
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form5.resources
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form6.resources
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form7.resources
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Properties.Resources.resources
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.csproj.GenerateResource.cache
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.csproj.CoreCompileInputs.cache
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.exe
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.pdb
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form5.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form6.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\EjercicioFicherosEscuela\EjercicioFicherosEscuela\obj\Debug\EjercicioFicherosEscuela.Form7.resources
